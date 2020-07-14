@@ -30,7 +30,7 @@
     "next": "^9.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "sass": "^1.26.10"
+    "tailwindcss": "^1.4.6"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.11.0",
@@ -52,7 +52,9 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.1.0",
     "lint-staged": "^10.2.11",
+    "postcss-preset-env": "^6.7.0",
     "prettier": "^2.0.5",
+    "sass": "^1.26.10",
     "typescript": "^3.9.6"
   }
 }

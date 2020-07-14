@@ -10,4 +10,4 @@
 - eslint
 - prettier
 - pre-commit
-- [ ] tailwind
+- tailwind
